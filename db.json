@@ -1,0 +1,29 @@
+{
+  "events": [
+    {
+      "id": "1",
+      "name": "Sudesh",
+      "status": "upcoming"
+    },
+    {
+      "id": "2",
+      "name": "shashank",
+      "status": "completed"
+    },
+    {
+      "id": "3",
+      "name": "vikas",
+      "status": "completed"
+    },
+    {
+      "id": "4",
+      "name": "Aditya",
+      "status": "upcoming"
+    },
+    {
+      "id": "5",
+      "name": "Varun",
+      "status": "completed"
+    }
+  ]
+}

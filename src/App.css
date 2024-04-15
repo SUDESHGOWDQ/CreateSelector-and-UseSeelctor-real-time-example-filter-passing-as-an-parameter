@@ -1,0 +1,32 @@
+.nav{
+    height: auto;
+    width: 100%;
+    background:burlywood;
+    text-align: center;
+}
+
+button{
+    padding: 10px;
+    margin: 10px;
+    width: 150px;
+}
+
+.upcoming{
+    color: blue;
+}
+
+.completed{
+    color: green;
+}
+
+table{
+    text-align: center;
+}
+
+input{
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    width: 300px;
+}
